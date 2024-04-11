@@ -1,0 +1,22 @@
+{
+  "name": "code-with-tajdar-number-guessing-game",
+  "version": "1.0.0",
+  "description": "Number Guessing Game project",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "number",
+    "guessing",
+    "game"
+  ],
+  "author": "Tajdar Arif Taji",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.17"
+  }
+}
